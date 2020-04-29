@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+
+
+void function1();
+
 int main()
 {
 	function1();
