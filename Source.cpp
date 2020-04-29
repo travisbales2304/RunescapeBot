@@ -3,5 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "nigger" << endl;
+	cout << "not cool" << endl;
 }
+
