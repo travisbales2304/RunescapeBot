@@ -18,6 +18,6 @@ void function1()
 
 	if (x == 0)
 	{
-		cout << "balls bssro" << endl;
+		cout << "balls baaro" << endl;
 	}
 }
