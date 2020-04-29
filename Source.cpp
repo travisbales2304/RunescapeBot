@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 	function1();
+	cout << "suck my ass" << endl;
 }
 
 
